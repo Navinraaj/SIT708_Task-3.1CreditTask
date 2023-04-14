@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ans1" type="id" />
+    <item name="ans4" type="id" />
+    <item name="progressBar" type="id" />
+    <item name="textViewQuestion" type="id" />
+    <item name="ans3" type="id" />
+    <item name="ans2" type="id" />
+    <item name="questionCount" type="id" />
+    <item name="submitBtn" type="id" />
+</resources>
